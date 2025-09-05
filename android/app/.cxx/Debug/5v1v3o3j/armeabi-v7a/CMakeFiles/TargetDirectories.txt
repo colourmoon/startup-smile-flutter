@@ -1,0 +1,2 @@
+C:/update plan for april 25/storeking-customer-app/android/app/.cxx/Debug/5v1v3o3j/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/update plan for april 25/storeking-customer-app/android/app/.cxx/Debug/5v1v3o3j/armeabi-v7a/CMakeFiles/rebuild_cache.dir

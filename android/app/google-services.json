@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "116885060694",
+    "project_id": "storeking-9a1da",
+    "storage_bucket": "storeking-9a1da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116885060694:android:994c7c03fafb8604408ff7",
+        "android_client_info": {
+          "package_name": "com.startup.smile.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7emYlnLF6hY_E2v6GxbE_7gBiiI3iy0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116885060694:android:e2c30e11b53b0205408ff7",
+        "android_client_info": {
+          "package_name": "com.inilabs.storeking.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7emYlnLF6hY_E2v6GxbE_7gBiiI3iy0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

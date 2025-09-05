@@ -1,0 +1,2 @@
+C:/testing feb 25/storeking-customer-app/android/app/.cxx/Debug/69694u4b/x86_64/CMakeFiles/edit_cache.dir
+C:/testing feb 25/storeking-customer-app/android/app/.cxx/Debug/69694u4b/x86_64/CMakeFiles/rebuild_cache.dir
